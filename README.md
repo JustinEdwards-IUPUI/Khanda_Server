@@ -1,2 +1,1 @@
-# Khanda_Server
-Khanda Server Senior Design SP19
+Khanda Server software Senior Design SP19
